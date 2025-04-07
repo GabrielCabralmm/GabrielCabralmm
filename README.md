@@ -1,4 +1,6 @@
 <div class="cabecalho">
-    <h1>Gabriel Cabral Mendes Mariano</h1>
-    <img src="https://www.pixilart.com/js/embed.js?v=1.0.4" alt="">
+    <h2>Gabriel Cabral Mendes Mariano</h2>
+    <p aling="center">
+        <img src="https://skillicons.dev/icons?i=cs,ps">
+    </p>
 </div>
