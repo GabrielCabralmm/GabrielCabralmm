@@ -12,8 +12,15 @@
     </a>
 </div>
 <h2>😄 Sobre mim:</h2>
-    - Cursando ADS no 1° ano da FIAP.</p>
-    - Cursando Técnico Desenvolvimento de Sistemas no Senac.</p>
+
+    - Cursando o 1° ano de ADS na FIAP.
+
+    - Concluindo curso Técnico Desenvolvimento de Sistemas no Senac.
+
+    - Gosto de ver como tudo se constrói através da programação!
+
+    - Pretendo me tornar um dev Full Stack completo.
+    <br>
     <h2 align="center">💻 Conhecimentos DEV 💻</h2>
     <p align="center">
         <a href="https://skillicons.dev">
