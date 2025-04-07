@@ -3,7 +3,6 @@
     <h3>Este é o meu GitHub, pazer!</h3>
     <br>
     <img src="https://art.pixilart.com/sr5zada802696faws3.png">
-    <img src="https://art.pixilart.com/sr5zada802696faws3.png">
     <a href="https://komarev.com/ghpvc/?username=gabrielcabralmm&label=Profile%20views&color=0e75b6&style=for-the-badge">
         <img src="https://komarev.com/ghpvc/?username=gabrielcabralmm&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     </a>
