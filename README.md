@@ -18,7 +18,7 @@
     <p>📌 Pretendo me tornar um dev Full Stack completo.</p>
     <br>
 <div align="center">
-    <img src="https://github.com/GabrielCabralmm/esythir/blob/main/coin.gif?raw=true">
+    <img width="50px" src="https://github.com/GabrielCabralmm/esythir/blob/main/coin.gif?raw=true">
     <h2>💻 Conhecimentos DEV 💻</h2>
     <p align="center">
         <a href="https://skillicons.dev">
