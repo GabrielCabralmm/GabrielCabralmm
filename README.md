@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Gabriel Cabral Mendes Mariano</h2>
-    <h3>Este é o meu GitHub, pazer!</h3>
+    <h3>Este é o meu GitHub, pazer! 👋</h3>
     <br>
     <img src="https://art.pixilart.com/sr5zada802696faws3.png">
     <br>
@@ -12,12 +12,11 @@
     </a>
 </div>
 <h2>😄 Sobre mim:</h2>
-<ul>
-    <li>- Cursando o 1° ano de ADS na FIAP.</li>
-    <li>- Concluindo curso Técnico Desenvolvimento de Sistemas no Senac.</li>
-    <li>- Gosto de ver como tudo se constrói através da programação!</li>
-    <li>- Pretendo me tornar um dev Full Stack completo.</li>
-</ul>
+    <p>- Cursando o 1° ano de ADS na FIAP.</p>
+    <p>- Concluindo curso Técnico Desenvolvimento de Sistemas no Senac.</p>
+    <p>- Gosto de ver como tudo se constrói através da programação!</p>
+    <p>- Pretendo me tornar um dev Full Stack completo.</p>
+    <br>
     <h2 align="center">💻 Conhecimentos DEV 💻</h2>
     <p align="center">
         <a href="https://skillicons.dev">
