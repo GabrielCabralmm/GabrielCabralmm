@@ -14,6 +14,7 @@
     <h2>😄 Sobre mim:</h2>
     <p>📌 Cursando o 1° ano de ADS na FIAP.</p>
     <p>📌 Cursando Técnico Desenvolvimento de Sistemas no Senac.</p>
+    <p>📌 Ensino médio técnico em TI concluído no Senac.<p>
     <p>📌 Gosto de ver como tudo se constrói através da programação!</p>
     <p>📌 Pretendo me tornar um dev Full Stack completo.</p>
     <br>
