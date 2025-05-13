@@ -23,7 +23,7 @@
     <h2>💻 Conhecimentos DEV 💻</h2>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img align="center" src="https://skillicons.dev/icons?i=cs,java,py,mysql,php,html,css,git">
+            <img align="center" src="https://skillicons.dev/icons?i=cs,java,py,mysql,php,js,html,css,git">
         </a>
     </p>
     <h2 align="center">🧠 Outros conhecimentos 🧠</h2>
