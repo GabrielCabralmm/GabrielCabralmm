@@ -2,11 +2,6 @@
     <h2>Gabriel Cabral Mendes Mariano</h2>
     <h3>Este é o meu GitHub, pazer! 👋</h3>
     <br>
-    <img src="https://art.pixilart.com/sr5zada802696faws3.png">
-    <br>
-    <a href="https://komarev.com/ghpvc/?username=gabrielcabralmm&label=Profile%20views&color=0e75b6&style=for-the-badge">
-        <img src="https://komarev.com/ghpvc/?username=gabrielcabralmm&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    </a>
     <a href="https://www.instagram.com/gabrielcabralmm/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
     </a>
