@@ -1,27 +1,97 @@
 <div align="center">
-    <h2>Gabriel Cabral Mendes Mariano</h2>
-    <h3>Este é o meu GitHub, pazer! 👋</h3>
+
+# Gabriel Cabral Mendes Mariano 👋
+
+### Desenvolvedor Full Stack em formação
+
+*"Transformando ideias em soluções através da programação."*
+
 </div>
-    <h2>😄 Sobre mim:</h2>
-    <p>📌 Cursando o 2° ano de ADS na FIAP.</p>
-    <p>📌 Técnico Desenvolvimento de Sistemas no Senac. - Concluído</p>
-    <p>📌 Ensino médio técnico em TI concluído no Senac. - Concluído<p>
-    <p>📌 Gosto de ver como tudo se constrói através da programação!</p>
-    <p>📌 Pretendo me tornar um Dev Full Stack completo.</p>
-    <br>
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP** (2º ano).
+- 🎓 Técnico em **Desenvolvimento de Sistemas** pelo **Senac**.
+- 🎓 Ensino Médio Técnico em TI pelo **Senac**.
+- 💻 Apaixonado por desenvolvimento de software e arquitetura de sistemas.
+- 🌱 Atualmente aprofundando conhecimentos em **.NET, React e APIs REST**.
+- 🎯 Objetivo: me tornar um **Desenvolvedor Full Stack** especializado em aplicações escaláveis.
+
+---
+
 <div align="center">
-    <img width="50px" src="https://github.com/GabrielCabralmm/esythir/blob/main/coin.gif?raw=true">
-    <h2>💻 Conhecimentos DEV 💻</h2>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img align="center" src="https://skillicons.dev/icons?i=cs,mysql,react,ts,js,html,css,tailwind,bootstrap,angular,nodejs,php,git,github,gitlab,postman,docker">
-        </a>
-    </p>
-    <h2 align="center">🧠 Outros conhecimentos 🧠</h2>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img align="center" src="https://skillicons.dev/icons?i=ps,pr,ai">
-        </a>
+
+<img width="70" src="https://github.com/GabrielCabralmm/esythir/blob/main/coin.gif?raw=true">
+
+# 💻 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,react,ts,js,html,css,tailwind,bootstrap,angular,nodejs,php,docker,git,github,gitlab,postman&perline=9"/>
+
 </div>
-<h3>📞 Contatos: </h3>
-    <p><img align="center" src="https://skillicons.dev/icons?i=gmail"> gabriel.cmmariano@gmail.com</p>
+
+---
+
+<div align="center">
+
+# 🧠 Outros conhecimentos
+
+<img src="https://skillicons.dev/icons?i=ps,pr,ai"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielCabralmm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCabralmm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GabrielCabralmm&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- ASP.NET Core
+- React + TypeScript
+- Entity Framework Core
+- MySQL
+- Docker
+- Arquitetura de Software
+- Clean Architecture
+- APIs REST
+
+---
+
+## 📫 Contato
+
+<p>
+<img src="https://skillicons.dev/icons?i=gmail" width="22"/> <strong>Email:</strong> gabriel.cmmariano@gmail.com
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=linkedin" width="22"/> <strong>LinkedIn:</strong> www.linkedin.com/in/gabrielcabralmm
+</p>
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 🚀
+
+</div>
