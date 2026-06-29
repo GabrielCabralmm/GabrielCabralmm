@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🚀 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP** (2º ano).
@@ -18,8 +16,6 @@
 - 💻 Apaixonado por desenvolvimento de software e arquitetura de sistemas.
 - 🌱 Atualmente aprofundando conhecimentos em **.NET, React e APIs REST**.
 - 🎯 Objetivo: me tornar um **Desenvolvedor Full Stack** especializado em aplicações escaláveis.
-
----
 
 <div align="center">
 
@@ -31,8 +27,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 # 🧠 Outros conhecimentos
@@ -41,8 +35,6 @@
 
 </div>
 
----
-
 ## 🔥 Sequência de Contribuições
 
 <div align="center">
@@ -50,8 +42,6 @@
 <img src="https://streak-stats.demolab.com?user=GabrielCabralmm&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 ## 📚 Atualmente estudando
 
@@ -64,19 +54,11 @@
 - Clean Architecture
 - APIs REST
 
----
-
 ## 📫 Contato
 
 <p>
 <img src="https://skillicons.dev/icons?i=gmail" width="22"/> <strong>Email:</strong> gabriel.cmmariano@gmail.com
 </p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=linkedin" width="22"/> <strong>LinkedIn:</strong> www.linkedin.com/in/gabrielcabralmm
-</p>
-
----
 
 <div align="center">
 
